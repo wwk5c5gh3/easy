@@ -1,8 +1,18 @@
 {
+  [
+  "appName":"app1",
   "isReadPaster":"yes",
   "jumpUrl":"https://www.epok.com",
   "jumpOutside":"no",
   "district":"yes",
   "res1":"",
-  "res2":""
+  "res2":""],
+  [ 
+  "appName":"app2",
+  "isReadPaster":"yes",
+  "jumpUrl":"https://www.epok.com",
+  "jumpOutside":"no",
+  "district":"yes",
+  "res1":"",
+  "res2":""],
 }
